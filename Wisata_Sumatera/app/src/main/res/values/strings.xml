@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WISATA SUMATERA</string>
+
+    <string name="wisata">Wisata</string>
+    <string name="olahraga">OlahRaga</string>
+    <string name="menu">Menu</string>
+    <string name="wisata_list">Wisata List</string>
+    <string name="olahraga_list">Olahraga List</string>
+    <string name="wisata_detail">Wisata Detail</string>
+    <string name="olahraga_detail">Olahraga Detail</string>
+
+    <string name="title">Title</string>
+    <string name="home">BERANDA</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="deskripsi">Deskripsi :</string>
+
+    <string name="info_me">ABOUT</string>
+
+    <string name="biodata_title">Biodata</string>
+    <string name="name">MUHAMMAD SAHRIR</string>
+    <string name="email">180401028@student.umri.ac.id</string>
+    <string name="keterangan">saya berasal dari nusa tenggara barat 13 tahun, dan pindah ke pekanbaru, di tahun 2018 saya masuk di Universitas Muhammadiyah Riau</string>
+
+
+</resources>
