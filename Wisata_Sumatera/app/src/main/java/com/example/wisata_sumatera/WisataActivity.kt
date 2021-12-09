@@ -19,6 +19,8 @@ class WisataActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         wisataBinding = WisataActivityBinding.inflate(layoutInflater)
         setContentView(wisataBinding.root)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
         val wisataActivityTitle = this.getText(R.string.wisata_list)
         supportActionBar?.apply {
@@ -39,5 +41,9 @@ class WisataActivity : AppCompatActivity() {
         val listWisata = wisataVM.getDataWisata()
         wisataAdapter.setWisata(listWisata)
 
+    }
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 }

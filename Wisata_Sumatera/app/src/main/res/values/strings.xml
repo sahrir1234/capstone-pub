@@ -16,15 +16,13 @@
 
     <string name="info_me">ABOUT</string>
 
+    <string name="search">Search</string>
+
     <string name="biodata_title">Biodata</string>
     <string name="name">MUHAMMAD SAHRIR</string>
     <string name="email">180401028@student.umri.ac.id</string>
     <string name="keterangan">saya berasal dari nusa tenggara barat 13 tahun, dan pindah ke pekanbaru, di tahun 2018 saya masuk di Universitas Muhammadiyah Riau</string>
 
-    <string name="biodata_title2">Biodata</string>
-    <string name="name2">MUHAMMAD SAHRIR</string>
-    <string name="email2">180401028@student.umri.ac.id</string>
-    <string name="keterangan2">saya berasal dari nusa tenggara barat 13 tahun, dan pindah ke pekanbaru, di tahun 2018 saya masuk di Universitas Muhammadiyah Riau</string>
 
     <string name="name_founder">SYARAPUDIN</string>
     <string name="email2">arapmaklum999@gmail.com</string>

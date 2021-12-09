@@ -10,6 +10,7 @@ import com.example.wisata_sumatera.databinding.DetailOlahragaActivityBinding
 import com.example.wisata_sumatera.view.OlahRagaDetailModel
 
 class DetailOlahRaga : AppCompatActivity() {
+
     private lateinit var detailOlahragaBinding: DetailOlahragaActivityBinding
     private lateinit var detailOlahragaModel: OlahRagaDetailModel
 
@@ -27,7 +28,10 @@ class DetailOlahRaga : AppCompatActivity() {
         val detailOlahraga= intent.getStringExtra(EXTRA_DETAIL_OLAHRAGA)
         supportActionBar?.apply {
             this@DetailOlahRaga.title = "$olahragaDetailTitle : $detailOlahraga"
+            supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+            supportActionBar!!.setDisplayHomeAsUpEnabled(true)
         }
+
 
         detailOlahragaModel = OlahRagaDetailModel()
         detailOlahragaModel = ViewModelProvider(this, ViewModelProvider.NewInstanceFactory()).get(
@@ -43,6 +47,11 @@ class DetailOlahRaga : AppCompatActivity() {
             }
         }
 
+
+    }
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 
     private fun olahragaDetail (olahraga : OlahRagaClass) {

@@ -2,22 +2,23 @@ package com.example.wisata_sumatera
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
+import com.example.wisata_sumatera.databinding.SplashScreenActivityBinding
 
 class SplashScreen : AppCompatActivity() {
-    private lateinit var handler : Handler
-    private val delayValue : Int = 2500
-
+    lateinit var binding: SplashScreenActivityBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.splash_screen_activity)
+        binding = SplashScreenActivityBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        handler = Handler()
-        handler.postDelayed({
+        val splash_img = binding.splashImg
+        splash_img.alpha = 0f
+        splash_img.animate().setDuration(1500).alpha(1f).withEndAction {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
             finish()
-        }, delayValue.toLong())
+        }
     }
 }

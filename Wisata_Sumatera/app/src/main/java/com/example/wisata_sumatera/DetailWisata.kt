@@ -13,6 +13,7 @@ class DetailWisata : AppCompatActivity() {
     private lateinit var detailWisataBinding: DetailWisataActivityBinding
     private lateinit var detailWisataModel: WisataDetailModel
 
+
     companion object {
         const val EXTRA_DETAIL_WISATA = "extra_detail_wisata"
     }
@@ -22,6 +23,8 @@ class DetailWisata : AppCompatActivity() {
         val detailsWisataBinding = DetailWisataActivityBinding.inflate(layoutInflater)
         detailWisataBinding = detailsWisataBinding
         setContentView(detailsWisataBinding.root)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
         val wisataDetailTitle = this.getText(R.string.wisata_detail)
         val detailWisata = intent.getStringExtra(EXTRA_DETAIL_WISATA)
@@ -42,6 +45,10 @@ class DetailWisata : AppCompatActivity() {
                 wisataDetail(detailWisataModel.getWisataDetail())
             }
         }
+    }
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 
     private fun wisataDetail(wisata: WisataClass) {

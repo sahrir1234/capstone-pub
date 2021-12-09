@@ -11,6 +11,8 @@ class BiodataActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.biodata_activity)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
 
         val tabLayout=findViewById<TabLayout>(R.id.tab_layout)
@@ -33,5 +35,9 @@ class BiodataActivity : AppCompatActivity() {
         }.attach()
 
 
+    }
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 }

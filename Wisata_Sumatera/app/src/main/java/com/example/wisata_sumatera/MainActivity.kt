@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(olahragaIntent)
         })
 
+
     }
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.info, menu)

@@ -19,6 +19,8 @@ class OlahRagaActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         olahragaBinding = OlahragaActivityBinding.inflate(layoutInflater)
         setContentView(olahragaBinding.root)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
         val olahActivityTitle = this.getText(R.string.olahraga_list)
         supportActionBar?.apply {
@@ -38,5 +40,9 @@ class OlahRagaActivity : AppCompatActivity() {
 
         val listOlahraga = olahragaVM.getDataOlahraga()
         olahragaAdapter.setOlahraga(listOlahraga)
+    }
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
     }
 }
