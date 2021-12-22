@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\olahraga_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\olahraga_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\olahraga_list.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\olahraga_list.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\wisata_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\wisata_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\detail_wisata_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\detail_wisata_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_screen_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\splash_screen_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\wisata_list.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\wisata_list.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\biodata_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\biodata_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\detail_olahraga_activity.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\detail_olahraga_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    }
+]

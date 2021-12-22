@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.wisata_sumatera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:7:5-33:19
+14        android:allowBackup="true"
+14-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\6006d603408a8c1ed0edf3e550c48eb5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_baseline_time_to_leave_24"
+17-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:9:9-62
+18        android:label="@string/app_name"
+18-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@drawable/ic_baseline_time_to_leave_24"
+19-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:11:9-67
+20        android:supportsRtl="true"
+20-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity android:name="com.example.wisata_sumatera.DetailOlahRaga" />
+23-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:14:9-51
+23-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:14:19-49
+24        <activity android:name="com.example.wisata_sumatera.DetailWisata" />
+24-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:15:9-50
+24-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:15:19-47
+25        <activity android:name="com.example.wisata_sumatera.OlahRagaActivity" />
+25-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:16:9-54
+25-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:16:19-51
+26        <activity android:name="com.example.wisata_sumatera.BiodataActivity" />
+26-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:17:9-52
+26-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:17:19-50
+27        <activity android:name="com.example.wisata_sumatera.WisataActivity" />
+27-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:18:9-52
+27-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:18:19-49
+28        <activity
+28-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:19:9-27:20
+29            android:name="com.example.wisata_sumatera.SplashScreen"
+29-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:19:19-47
+30            android:exported="true"
+30-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:20:13-36
+31            android:theme="@style/Theme.AppCompat.NoActionBar" >
+31-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:21:13-63
+32            <intent-filter>
+32-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:22:13-26:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:23:17-69
+33-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:23:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:25:17-77
+35-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:25:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:28:9-32:20
+39            android:name="com.example.wisata_sumatera.MainActivity"
+39-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:29:13-41
+40            android:exported="true" >
+40-->D:\PROJECT capstone\Wisata_Sumatera\app\src\main\AndroidManifest.xml:30:13-36
+41        </activity>
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+45            android:authorities="com.example.wisata_sumatera.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SAHRIR_POENYA\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+53        </provider>
+54    </application>
+55
+56</manifest>
