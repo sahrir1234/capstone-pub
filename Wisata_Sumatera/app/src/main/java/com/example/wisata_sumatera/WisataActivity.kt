@@ -41,6 +41,7 @@ class WisataActivity : AppCompatActivity() {
         val listWisata = wisataVM.getDataWisata()
         wisataAdapter.setWisata(listWisata)
 
+
     }
     override fun onSupportNavigateUp(): Boolean {
         onBackPressed()
