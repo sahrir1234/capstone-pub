@@ -4,6 +4,10 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata17.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata17.jpg"
+    },
+    {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\menu_info.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\menu\\info.xml"
     },
@@ -20,20 +24,24 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\ic_baseline_train_24.xml"
     },
     {
-        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.jpg.flat",
-        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\profile.jpg"
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_info_24.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
     },
     {
-        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\profile.jpg"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\layout_wisata_list.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\wisata_list.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata14.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata14.jpg"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -72,8 +80,20 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\olahraga5.jpg"
     },
     {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata18.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata18.jpg"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata12.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata12.jpg"
+    },
+    {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\ic_search.xml"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata7.jpg.flat",
@@ -90,6 +110,10 @@
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_founder.jpg.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\bg_founder.jpg"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata15.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata15.jpg"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -132,6 +156,10 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\olahraga9.jpg"
     },
     {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata19.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata19.jpg"
+    },
+    {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata5.jpg.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata5.jpg"
     },
@@ -142,6 +170,10 @@
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_olahraga10.jpg.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\olahraga10.jpg"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata11.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata11.jpg"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -180,6 +212,10 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata2.jpg"
     },
     {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata16.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata16.jpg"
+    },
+    {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_white.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\bg_white.xml"
     },
@@ -204,6 +240,10 @@
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\anim\\opening_animation.xml"
     },
     {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata20.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata20.jpg"
+    },
+    {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\layout_wisata_activity.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\wisata_activity.xml"
     },
@@ -222,6 +262,10 @@
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\layout_splash_screen_activity.xml.flat",
         "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\layout\\splash_screen_activity.xml"
+    },
+    {
+        "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_wisata13.jpg.flat",
+        "source": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\src\\main\\res\\drawable\\wisata13.jpg"
     },
     {
         "merged": "D:\\PROJECT capstone\\Wisata_Sumatera\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gray.xml.flat",

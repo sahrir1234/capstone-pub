@@ -1845,6 +1845,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_search
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1898,7 +1899,17 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable wisata1
 drawable wisata10
+drawable wisata11
+drawable wisata12
+drawable wisata13
+drawable wisata14
+drawable wisata15
+drawable wisata16
+drawable wisata17
+drawable wisata18
+drawable wisata19
 drawable wisata2
+drawable wisata20
 drawable wisata3
 drawable wisata4
 drawable wisata5

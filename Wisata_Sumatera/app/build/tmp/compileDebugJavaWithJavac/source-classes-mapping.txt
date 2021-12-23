@@ -1,3 +1,5 @@
+com/example/wisata_sumatera/BuildConfig.java
+ com.example.wisata_sumatera.BuildConfig
 com/example/wisata_sumatera/databinding/DetailWisataActivityBinding.java
  com.example.wisata_sumatera.databinding.DetailWisataActivityBinding
 com/example/wisata_sumatera/databinding/BiodataActivityBinding.java
@@ -14,8 +16,6 @@ com/example/wisata_sumatera/databinding/ActivityMainBinding.java
  com.example.wisata_sumatera.databinding.ActivityMainBinding
 com/example/wisata_sumatera/databinding/FragmentSecondBinding.java
  com.example.wisata_sumatera.databinding.FragmentSecondBinding
-com/example/wisata_sumatera/BuildConfig.java
- com.example.wisata_sumatera.BuildConfig
 com/example/wisata_sumatera/databinding/OlahragaActivityBinding.java
  com.example.wisata_sumatera.databinding.OlahragaActivityBinding
 com/example/wisata_sumatera/databinding/WisataListBinding.java

@@ -23,7 +23,8 @@ object DataWisata {
         "Air Terjun Lubuk Bigau",
         "Mega Wisata Ocarina",
         "Gunung Bintan",
-        "Kampung Vietnam"
+        "Kampung Vietnam",
+        "Danau Dendam Tak Sudah"
     )
 
 
@@ -47,7 +48,8 @@ object DataWisata {
         "Lubuk Bigau, Kec. Kampar Kiri Hulu, Kab. Kampar - Riau",
         "Sadai, Kec. Bengkong, Kota Batam - Kepulauan Riau",
         "Bintan Buyu, Kec. Teluk Bintan, Kab. Bintan - Kepulauan Riau",
-        "Sijantung, Kec. Galang, Kota Batam - Pulau Galang Kepri"
+        "Sijantung, Kec. Galang, Kota Batam - Pulau Galang Kepri",
+        "Dusun Besar, Kec. Singaran Pati, Kota Bengkulu - Bengkulu"
     )
 
     val wisataSynopsis = arrayOf(
@@ -70,7 +72,8 @@ object DataWisata {
         "Pemandangan alam Riau belum juga habis, karena Anda harus mengunjungi Air Terjun Lubuk Bigau. Air terjun ini menjadi air terjun yang begitu diburu oleh para pecinta petualangan. Air yang jatuh dari ketinggian ini juga mendapatkan predikat sebagai air terjun yang paling tinggi di Riau. Suasana dan keindahannya yang masih alami menjadi daya tarik tersendiri. Pepohonan yang rindang, hawa sejuk dan hal alami lainnya akan membuat Anda enggan untuk pulang.",
         "Tempat satu ini menjadi salah satu tempat wisata yang terkenal dan sudah menunjukkan sisi modernnya. Dalam pembangunannya memang sudah dicanangkan akan semegah Ancol. Mega wisata Ocaria ini merupakan lokasi terpadu yang menawarkan banyak wahana wisata. Mulai dari permainan anak, Flying Fox, Giant Wheel, Sepeda Air dan wahana lainnya. Pemandangan langsung menuju laut membuatnya tak pernah sepi pengunjung.",
         "Walaupun Kepulauan Riau memang didominasi lautan, tapi Kepri juga memiliki Gunung yang begitu indah. Gunung Bintan tak hanya menjadi wisata hiking bagi masyarakat sekitar tapi juga wisatawan dari berbagai kota. Untuk bisa sampai puncak, Anda hanya membutuhkan waktu sekitar 3 jam saja. Dan begitu di puncak, Anda akan disajikan kemolekan alam yang begitu indah. Daerah ini juga sangat cocok bagi Anda penggemar durian yang memang menjadi produksi durian paling besar.",
-        "Walaupun dinamakan dengan Kampung Vietnam, tetapi masih menjadi wisata di Kepulauan Riau. Dinamakan Kampung Vietnam, karena dahulunya dijadikan sebagai camp pengungsian saat perang saudara di Vietnam terjadi. Dan Atas permintaan PBB, Indonesia mampu menyediakan tempat tersebut. Kini kampung Vietnam ini sudah tak lagi memiliki penghuni, tetapi memiliki pesona yang tak bisa dilewatkan begitu saja."
+        "Walaupun dinamakan dengan Kampung Vietnam, tetapi masih menjadi wisata di Kepulauan Riau. Dinamakan Kampung Vietnam, karena dahulunya dijadikan sebagai camp pengungsian saat perang saudara di Vietnam terjadi. Dan Atas permintaan PBB, Indonesia mampu menyediakan tempat tersebut. Kini kampung Vietnam ini sudah tak lagi memiliki penghuni, tetapi memiliki pesona yang tak bisa dilewatkan begitu saja.",
+        "Nama danau ini saja memang sudah menarik perhatian, nama danau ini konon katanya datang dari Legenda yang menyertainya. Terlepas dari legendanya, danau ini menawarkan keindahan yang begitu menawan. Selain dijadikan sebagai tempat wisata, juga dijadikan penelitian. Menikmati keindahan alam sembari menikmati kuliner tentunya akan jadi liburan yang menyenangkan."
     )
 
     val wisataPoster = intArrayOf(
@@ -93,7 +96,9 @@ object DataWisata {
         R.drawable.wisata17,
         R.drawable.wisata18,
         R.drawable.wisata19,
-        R.drawable.wisata20
+        R.drawable.wisata20,
+        R.drawable.wisata21
+
     )
 
     val listWisata : ArrayList<WisataClass>
