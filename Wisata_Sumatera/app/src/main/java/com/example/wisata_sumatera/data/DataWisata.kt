@@ -13,7 +13,8 @@ object DataWisata {
         "Cagar Alam Sibolangit",
         "Funland Mickey Holiday",
         "Lembah Harau",
-        "Danau Singkarak"
+        "Danau Singkarak",
+        "Pantai Air Manis"
     )
 
 
@@ -27,7 +28,8 @@ object DataWisata {
         "Sibolangit, Kec. Sibolangit, Kab. Deli Serdang",
         "Jl. Jamin Ginting, Sempajaya, Kec. Berastagi, Kab. Karo.",
         "Nagari Harau, Kec. Harau, Kab. Lima Puluh Kota.",
-        " Kec. X Koto Singkarak, Kab. Solok."
+        "Kec. X Koto Singkarak, Kab. Solok.",
+        "Air Manis, Kec. Padang Selatan, Kota Padang"
     )
 
     val wisataSynopsis = arrayOf(
@@ -40,7 +42,8 @@ object DataWisata {
         "Bosan dengan hiruk pikuk kota Medan, Anda bisa menenangkan diri mengunjungi Cagar Alam Sibolangit yang berada di Deli Serdang. Cagar alam ini masih memiliki alam yang begitu terjaga dan asri, sehingga sangat cocok untuk menghempas segala penat. Flora dan fauna yang beragam, bisa Anda temukan jika Anda mengunjungi Cagar Alam ini. Objek wisata ini memang begitu mendukung konsep Go Green di tengah pemanasan global saat ini.",
         "Tidak hanya menyajikan wisata alam yang mengagumkan, Anda juga bisa mengunjungi tempat bermain yang menyenangkan. Terutama bagi Anda yang membawa keluarga dalam menjelajah Sumatera. Wahana mulai dari Shoot Game, Raffling, Paint Ball hingga aktivitas outbond yang menyenangkan. Bisa dikatakan jika funpark satu ini menjadi yang paling besar, ada sekitar 35 wahana outdoor yang bisa Anda nikmati bersama keluarga.",
         "Keindahan lembah Harau memang tidak diragukan lagi, bahkan sudah diakui oleh wisatawan mancanegara sekalipun. Lembah Harau tak hanya menawarkan keindahan yang masih asri, namun juga kebudayaan dan agama yang membuat tempat ini semakin kaya. Untuk Anda yang menyukai kegiatan berbaur di alam yang ekstrim, titik panjat tebing yang tingginya lebih 50 meter bisa Anda coba. Objek wisata satu ini akan sanggup mengisi energi Anda kembali.",
-        "Penasaran dengan ikan bilih? Jika iya maka Anda harus mengunjungi Danau Singkarak. Ikan Bilih merupakan endemik Singkarak yang tidak akan mudah ditemukan di tempat lain. Ikan dengan sisik perak yang berkilauan ini memang menjadi penghuni dari danau cantik ini. Selain bisa berkesempatan melihat ikan ini langsung, Anda juga akan dimanjakan dengan keindahan alamnya yang begitu asri. Danau besar ini akan jadi tujuan wisata yang mengesankan."
+        "Penasaran dengan ikan bilih? Jika iya maka Anda harus mengunjungi Danau Singkarak. Ikan Bilih merupakan endemik Singkarak yang tidak akan mudah ditemukan di tempat lain. Ikan dengan sisik perak yang berkilauan ini memang menjadi penghuni dari danau cantik ini. Selain bisa berkesempatan melihat ikan ini langsung, Anda juga akan dimanjakan dengan keindahan alamnya yang begitu asri. Danau besar ini akan jadi tujuan wisata yang mengesankan.",
+        "Malin Kundang menjadi karakter dalam legenda yang begitu kondang akan kisah anak durhaka. Dikutuk menjadi batu, konon batu ini bisa Anda temukan di Pantai Air Manis. Terlepas dari batu Malin Kundangnya yang menjadi daya tarik, Pantai Ini juga memiliki keindahan yang luar biasa. Gelombangnya yang rendah sangat cocok untuk dijadikan tempat Anda berenang. Bersantai menikmati hawa pantai, mata Anda juga akan dimanjakan dengan megahnya Gunung Padang."
     )
 
     val wisataPoster = intArrayOf(
@@ -53,7 +56,8 @@ object DataWisata {
         R.drawable.wisata7,
         R.drawable.wisata8,
         R.drawable.wisata9,
-        R.drawable.wisata10
+        R.drawable.wisata10,
+        R.drawable.wisata11
     )
 
     val listWisata : ArrayList<WisataClass>
