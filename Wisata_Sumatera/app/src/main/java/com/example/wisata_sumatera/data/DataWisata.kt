@@ -17,7 +17,13 @@ object DataWisata {
         "Pantai Air Manis",
         "Pulau Setan",
         "Candi Muara Takus",
-        "Wisata Danau Raja"
+        "Wisata Danau Raja",
+        "Wisata Sungai Kampar",
+        "Wisata Pulau Jemur",
+        "Air Terjun Lubuk Bigau",
+        "Mega Wisata Ocarina",
+        "Gunung Bintan",
+        "Kampung Vietnam"
     )
 
 
@@ -35,7 +41,13 @@ object DataWisata {
         "Air Manis, Kec. Padang Selatan, Kota Padang",
         "Ampang Pulai, Kec. Koto XI Tarusan, Kab. Pesisir Selatan",
         "Muara Takus, Kec. XIII Koto Kampar, Kab. Kampar - Riau",
-        "Kampung Dagang, Kec. Rengat, Kab. Indragiri Hulu - Riau"
+        "Kampung Dagang, Kec. Rengat, Kab. Indragiri Hulu - Riau",
+        "Teluk Meranti, Kec. Teluk Meranti, Kab. Pelalawan - Riau",
+        "Kec. Pasir Limau Kapas, Kab. Rokan Hilir - Riau",
+        "Lubuk Bigau, Kec. Kampar Kiri Hulu, Kab. Kampar - Riau",
+        "Sadai, Kec. Bengkong, Kota Batam - Kepulauan Riau",
+        "Bintan Buyu, Kec. Teluk Bintan, Kab. Bintan - Kepulauan Riau",
+        "Sijantung, Kec. Galang, Kota Batam - Pulau Galang Kepri"
     )
 
     val wisataSynopsis = arrayOf(
@@ -52,7 +64,13 @@ object DataWisata {
         "Malin Kundang menjadi karakter dalam legenda yang begitu kondang akan kisah anak durhaka. Dikutuk menjadi batu, konon batu ini bisa Anda temukan di Pantai Air Manis. Terlepas dari batu Malin Kundangnya yang menjadi daya tarik, Pantai Ini juga memiliki keindahan yang luar biasa. Gelombangnya yang rendah sangat cocok untuk dijadikan tempat Anda berenang. Bersantai menikmati hawa pantai, mata Anda juga akan dimanjakan dengan megahnya Gunung Padang.",
         "Mungkin dari namanya terlihat begitu menyeramkan dan bisa saja membuat tengkuk Anda merinding. Namun pemandangan yang akan disuguhkan jauh dari kata menyeramkan, karena pesonanya begitu memabukkan. Pulau yang tidak berpenghuni ini, menyajikan hamparan laut dengan dihiasi perbukitan yang asri. Gelombangnya yang relatif kecil juga sangat aman untuk berenang. Berbagai kegiatan menarik lainnya juga bisa Anda lakukan di pulau Setan ini.",
         "Sumatera terutama di Riau, Anda juga bisa menikmati keindahan Candi yang penuh sejarah. Candi Muara Takus merupakan peninggalan dari umat Budha yang sudah ada sejak dahulu. Mengunjungi Candi ini bersama keluarga, akan memberikan pengalaman yang menyenangkan. Pemandangan yang menakjubkan dengan jajaran rerumputan yang rapi serta bebas sampah akan membuat Anda nyaman. Di candi ini Anda bisa mengambil banyak foto menarik.",
-        "Provinsi Riau memiliki Danau yang begitu indah dan menjadi salah satu yang terkenal yaitu Danau Raja. Danau tenang dengan pepohonan yang menaunginya menjadikan suasananya begitu tenang dan mampu menghapus semua penat. Yang paling diburu ketika mengunjungi Danau Raja adalah menikmati senja yang terbenam di ufuk. Danau yang sebelumnya tempat mandi keluarga kerajaan Istana Indagiri ini hingga ini masih ada sisa bangunannya."
+        "Provinsi Riau memiliki Danau yang begitu indah dan menjadi salah satu yang terkenal yaitu Danau Raja. Danau tenang dengan pepohonan yang menaunginya menjadikan suasananya begitu tenang dan mampu menghapus semua penat. Yang paling diburu ketika mengunjungi Danau Raja adalah menikmati senja yang terbenam di ufuk. Danau yang sebelumnya tempat mandi keluarga kerajaan Istana Indagiri ini hingga ini masih ada sisa bangunannya.",
+        "Sungai Kampar merupakan sungai yang berada di teluk Meranti yang menawarkan atraksi seru. Di sungai ini Anda bisa menantang adrenalin Anda dengan selancar. Para peselancar begitu menikmati selancar di daerah ini, terutama para kawula mudanya. Meskipun sebuah sungai, namun sungai ini memiliki gelombang pasang serta surut dan ombak yang begitu keras. Bayangkan saja Bono atau gelombangnya mampu memiliki kecepatan hingga 40 Km.",
+        "Pulau Jemur menjadi wisata selanjutnya yang bisa Anda kunjungi ketika menginjakkan kaki di Riau. Pulau Jemur ini berada di Bagansiapiapi yang menawarkan pesona alam yang luar biasa. Tak hanya menyejukkan mata, Anda juga akan dimanjakan dan dibuai sehingga enggan untuk pulang. Gugusan banyak Pulau yang berada di dalamnya, bisa Anda jelajahi ketika mengunjungi pulau ini. Jika Anda beruntung, Anda bisa bertemu dengan penyu yang sedang bertelur.",
+        "Pemandangan alam Riau belum juga habis, karena Anda harus mengunjungi Air Terjun Lubuk Bigau. Air terjun ini menjadi air terjun yang begitu diburu oleh para pecinta petualangan. Air yang jatuh dari ketinggian ini juga mendapatkan predikat sebagai air terjun yang paling tinggi di Riau. Suasana dan keindahannya yang masih alami menjadi daya tarik tersendiri. Pepohonan yang rindang, hawa sejuk dan hal alami lainnya akan membuat Anda enggan untuk pulang.",
+        "Tempat satu ini menjadi salah satu tempat wisata yang terkenal dan sudah menunjukkan sisi modernnya. Dalam pembangunannya memang sudah dicanangkan akan semegah Ancol. Mega wisata Ocaria ini merupakan lokasi terpadu yang menawarkan banyak wahana wisata. Mulai dari permainan anak, Flying Fox, Giant Wheel, Sepeda Air dan wahana lainnya. Pemandangan langsung menuju laut membuatnya tak pernah sepi pengunjung.",
+        "Walaupun Kepulauan Riau memang didominasi lautan, tapi Kepri juga memiliki Gunung yang begitu indah. Gunung Bintan tak hanya menjadi wisata hiking bagi masyarakat sekitar tapi juga wisatawan dari berbagai kota. Untuk bisa sampai puncak, Anda hanya membutuhkan waktu sekitar 3 jam saja. Dan begitu di puncak, Anda akan disajikan kemolekan alam yang begitu indah. Daerah ini juga sangat cocok bagi Anda penggemar durian yang memang menjadi produksi durian paling besar.",
+        "Walaupun dinamakan dengan Kampung Vietnam, tetapi masih menjadi wisata di Kepulauan Riau. Dinamakan Kampung Vietnam, karena dahulunya dijadikan sebagai camp pengungsian saat perang saudara di Vietnam terjadi. Dan Atas permintaan PBB, Indonesia mampu menyediakan tempat tersebut. Kini kampung Vietnam ini sudah tak lagi memiliki penghuni, tetapi memiliki pesona yang tak bisa dilewatkan begitu saja."
     )
 
     val wisataPoster = intArrayOf(
@@ -69,7 +87,13 @@ object DataWisata {
         R.drawable.wisata11,
         R.drawable.wisata12,
         R.drawable.wisata13,
-        R.drawable.wisata14
+        R.drawable.wisata14,
+        R.drawable.wisata15,
+        R.drawable.wisata16,
+        R.drawable.wisata17,
+        R.drawable.wisata18,
+        R.drawable.wisata19,
+        R.drawable.wisata20
     )
 
     val listWisata : ArrayList<WisataClass>
