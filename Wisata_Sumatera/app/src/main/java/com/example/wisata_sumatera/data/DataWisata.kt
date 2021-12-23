@@ -14,7 +14,8 @@ object DataWisata {
         "Funland Mickey Holiday",
         "Lembah Harau",
         "Danau Singkarak",
-        "Pantai Air Manis"
+        "Pantai Air Manis",
+        "Pulau Setan"
     )
 
 
@@ -29,7 +30,8 @@ object DataWisata {
         "Jl. Jamin Ginting, Sempajaya, Kec. Berastagi, Kab. Karo.",
         "Nagari Harau, Kec. Harau, Kab. Lima Puluh Kota.",
         "Kec. X Koto Singkarak, Kab. Solok.",
-        "Air Manis, Kec. Padang Selatan, Kota Padang"
+        "Air Manis, Kec. Padang Selatan, Kota Padang",
+        "Ampang Pulai, Kec. Koto XI Tarusan, Kab. Pesisir Selatan"
     )
 
     val wisataSynopsis = arrayOf(
@@ -43,7 +45,8 @@ object DataWisata {
         "Tidak hanya menyajikan wisata alam yang mengagumkan, Anda juga bisa mengunjungi tempat bermain yang menyenangkan. Terutama bagi Anda yang membawa keluarga dalam menjelajah Sumatera. Wahana mulai dari Shoot Game, Raffling, Paint Ball hingga aktivitas outbond yang menyenangkan. Bisa dikatakan jika funpark satu ini menjadi yang paling besar, ada sekitar 35 wahana outdoor yang bisa Anda nikmati bersama keluarga.",
         "Keindahan lembah Harau memang tidak diragukan lagi, bahkan sudah diakui oleh wisatawan mancanegara sekalipun. Lembah Harau tak hanya menawarkan keindahan yang masih asri, namun juga kebudayaan dan agama yang membuat tempat ini semakin kaya. Untuk Anda yang menyukai kegiatan berbaur di alam yang ekstrim, titik panjat tebing yang tingginya lebih 50 meter bisa Anda coba. Objek wisata satu ini akan sanggup mengisi energi Anda kembali.",
         "Penasaran dengan ikan bilih? Jika iya maka Anda harus mengunjungi Danau Singkarak. Ikan Bilih merupakan endemik Singkarak yang tidak akan mudah ditemukan di tempat lain. Ikan dengan sisik perak yang berkilauan ini memang menjadi penghuni dari danau cantik ini. Selain bisa berkesempatan melihat ikan ini langsung, Anda juga akan dimanjakan dengan keindahan alamnya yang begitu asri. Danau besar ini akan jadi tujuan wisata yang mengesankan.",
-        "Malin Kundang menjadi karakter dalam legenda yang begitu kondang akan kisah anak durhaka. Dikutuk menjadi batu, konon batu ini bisa Anda temukan di Pantai Air Manis. Terlepas dari batu Malin Kundangnya yang menjadi daya tarik, Pantai Ini juga memiliki keindahan yang luar biasa. Gelombangnya yang rendah sangat cocok untuk dijadikan tempat Anda berenang. Bersantai menikmati hawa pantai, mata Anda juga akan dimanjakan dengan megahnya Gunung Padang."
+        "Malin Kundang menjadi karakter dalam legenda yang begitu kondang akan kisah anak durhaka. Dikutuk menjadi batu, konon batu ini bisa Anda temukan di Pantai Air Manis. Terlepas dari batu Malin Kundangnya yang menjadi daya tarik, Pantai Ini juga memiliki keindahan yang luar biasa. Gelombangnya yang rendah sangat cocok untuk dijadikan tempat Anda berenang. Bersantai menikmati hawa pantai, mata Anda juga akan dimanjakan dengan megahnya Gunung Padang.",
+        "Mungkin dari namanya terlihat begitu menyeramkan dan bisa saja membuat tengkuk Anda merinding. Namun pemandangan yang akan disuguhkan jauh dari kata menyeramkan, karena pesonanya begitu memabukkan. Pulau yang tidak berpenghuni ini, menyajikan hamparan laut dengan dihiasi perbukitan yang asri. Gelombangnya yang relatif kecil juga sangat aman untuk berenang. Berbagai kegiatan menarik lainnya juga bisa Anda lakukan di pulau Setan ini."
     )
 
     val wisataPoster = intArrayOf(
@@ -57,7 +60,8 @@ object DataWisata {
         R.drawable.wisata8,
         R.drawable.wisata9,
         R.drawable.wisata10,
-        R.drawable.wisata11
+        R.drawable.wisata11,
+        R.drawable.wisata12
     )
 
     val listWisata : ArrayList<WisataClass>
