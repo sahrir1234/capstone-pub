@@ -15,7 +15,9 @@ object DataWisata {
         "Lembah Harau",
         "Danau Singkarak",
         "Pantai Air Manis",
-        "Pulau Setan"
+        "Pulau Setan",
+        "Candi Muara Takus",
+        "Wisata Danau Raja"
     )
 
 
@@ -31,7 +33,9 @@ object DataWisata {
         "Nagari Harau, Kec. Harau, Kab. Lima Puluh Kota.",
         "Kec. X Koto Singkarak, Kab. Solok.",
         "Air Manis, Kec. Padang Selatan, Kota Padang",
-        "Ampang Pulai, Kec. Koto XI Tarusan, Kab. Pesisir Selatan"
+        "Ampang Pulai, Kec. Koto XI Tarusan, Kab. Pesisir Selatan",
+        "Muara Takus, Kec. XIII Koto Kampar, Kab. Kampar - Riau",
+        "Kampung Dagang, Kec. Rengat, Kab. Indragiri Hulu - Riau"
     )
 
     val wisataSynopsis = arrayOf(
@@ -46,7 +50,9 @@ object DataWisata {
         "Keindahan lembah Harau memang tidak diragukan lagi, bahkan sudah diakui oleh wisatawan mancanegara sekalipun. Lembah Harau tak hanya menawarkan keindahan yang masih asri, namun juga kebudayaan dan agama yang membuat tempat ini semakin kaya. Untuk Anda yang menyukai kegiatan berbaur di alam yang ekstrim, titik panjat tebing yang tingginya lebih 50 meter bisa Anda coba. Objek wisata satu ini akan sanggup mengisi energi Anda kembali.",
         "Penasaran dengan ikan bilih? Jika iya maka Anda harus mengunjungi Danau Singkarak. Ikan Bilih merupakan endemik Singkarak yang tidak akan mudah ditemukan di tempat lain. Ikan dengan sisik perak yang berkilauan ini memang menjadi penghuni dari danau cantik ini. Selain bisa berkesempatan melihat ikan ini langsung, Anda juga akan dimanjakan dengan keindahan alamnya yang begitu asri. Danau besar ini akan jadi tujuan wisata yang mengesankan.",
         "Malin Kundang menjadi karakter dalam legenda yang begitu kondang akan kisah anak durhaka. Dikutuk menjadi batu, konon batu ini bisa Anda temukan di Pantai Air Manis. Terlepas dari batu Malin Kundangnya yang menjadi daya tarik, Pantai Ini juga memiliki keindahan yang luar biasa. Gelombangnya yang rendah sangat cocok untuk dijadikan tempat Anda berenang. Bersantai menikmati hawa pantai, mata Anda juga akan dimanjakan dengan megahnya Gunung Padang.",
-        "Mungkin dari namanya terlihat begitu menyeramkan dan bisa saja membuat tengkuk Anda merinding. Namun pemandangan yang akan disuguhkan jauh dari kata menyeramkan, karena pesonanya begitu memabukkan. Pulau yang tidak berpenghuni ini, menyajikan hamparan laut dengan dihiasi perbukitan yang asri. Gelombangnya yang relatif kecil juga sangat aman untuk berenang. Berbagai kegiatan menarik lainnya juga bisa Anda lakukan di pulau Setan ini."
+        "Mungkin dari namanya terlihat begitu menyeramkan dan bisa saja membuat tengkuk Anda merinding. Namun pemandangan yang akan disuguhkan jauh dari kata menyeramkan, karena pesonanya begitu memabukkan. Pulau yang tidak berpenghuni ini, menyajikan hamparan laut dengan dihiasi perbukitan yang asri. Gelombangnya yang relatif kecil juga sangat aman untuk berenang. Berbagai kegiatan menarik lainnya juga bisa Anda lakukan di pulau Setan ini.",
+        "Sumatera terutama di Riau, Anda juga bisa menikmati keindahan Candi yang penuh sejarah. Candi Muara Takus merupakan peninggalan dari umat Budha yang sudah ada sejak dahulu. Mengunjungi Candi ini bersama keluarga, akan memberikan pengalaman yang menyenangkan. Pemandangan yang menakjubkan dengan jajaran rerumputan yang rapi serta bebas sampah akan membuat Anda nyaman. Di candi ini Anda bisa mengambil banyak foto menarik.",
+        "Provinsi Riau memiliki Danau yang begitu indah dan menjadi salah satu yang terkenal yaitu Danau Raja. Danau tenang dengan pepohonan yang menaunginya menjadikan suasananya begitu tenang dan mampu menghapus semua penat. Yang paling diburu ketika mengunjungi Danau Raja adalah menikmati senja yang terbenam di ufuk. Danau yang sebelumnya tempat mandi keluarga kerajaan Istana Indagiri ini hingga ini masih ada sisa bangunannya."
     )
 
     val wisataPoster = intArrayOf(
@@ -61,7 +67,9 @@ object DataWisata {
         R.drawable.wisata9,
         R.drawable.wisata10,
         R.drawable.wisata11,
-        R.drawable.wisata12
+        R.drawable.wisata12,
+        R.drawable.wisata13,
+        R.drawable.wisata14
     )
 
     val listWisata : ArrayList<WisataClass>
