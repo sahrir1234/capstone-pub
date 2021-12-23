@@ -2,6 +2,7 @@ package com.example.wisata_sumatera
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
@@ -45,6 +46,7 @@ class DetailWisata : AppCompatActivity() {
                 wisataDetail(detailWisataModel.getWisataDetail())
             }
         }
+
     }
     override fun onSupportNavigateUp(): Boolean {
         onBackPressed()
@@ -62,5 +64,7 @@ class DetailWisata : AppCompatActivity() {
         detailWisataBinding.wisataTitle.text = wisata.titleClass
 
     }
+
+
 
 }

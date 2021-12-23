@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".WisataActivity">
 
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/wisata_rv"
         android:layout_width="wrap_content"
