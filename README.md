@@ -12,4 +12,5 @@ Android Link : https://drive.google.com/drive/u/2/folders/1aiH6-Ci9Dii0Kc1azTgPq
 
 Tampilan Aplikasi :
 
-![image](https://user-images.githubusercontent.com/89476954/147356793-53e9dd88-4a8d-4c39-92e1-a548754f22ba.png)
+![image](https://user-images.githubusercontent.com/89476954/147357091-7be30dc8-429c-460d-bc92-e0f193b094a7.png)
+
